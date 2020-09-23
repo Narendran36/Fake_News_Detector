@@ -10,11 +10,12 @@
     pip install WordCloud
     pip install gensim
 ```
-2. ***Run flashstream.py***<br />
+2. ***Run setup.py***<br />
 ```
-    python flashstream.py
+    streamlit run setup.py
 ```
 3. ***Run streamlitalone.py***<br />
 ```
-    streamlit run streamlitalone.py
+    streamlit run cyrim.py
 ```
+### Ensure both these files are on same folder
