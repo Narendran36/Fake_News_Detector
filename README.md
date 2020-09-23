@@ -18,5 +18,5 @@
 ```
     streamlit run cyrim.py
 ```
-***Ensure both these files are on same folder***
-Note: You can visualize the working using Fake_News_ML.ipynb ( download True.csv and Fake.csv before )
+***Ensure both these files are on same folder***<br />
+Note: Visualize the working using Fake_News_ML.ipynb ( download True.csv and Fake.csv before )
