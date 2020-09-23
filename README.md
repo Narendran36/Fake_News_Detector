@@ -10,7 +10,7 @@
     pip install WordCloud <br />
     pip install gensim  <br />
     pip install jupyterthemes <br />
-2. ***Run flashstream.py*** File <br />
+2. ***Run flashstream.py File***  <br />
     python flashstream.py <br />
-3. ***Run streamlitalone.py*** File <br />
+3. ***Run streamlitalone.py File*** <br />
     streamlit run streamlitalone.py
