@@ -1,5 +1,5 @@
 # CYRIM: Fake News Detector
-1. ***Import libraries mentioned in flashstream.py***<br />
+1. ***Import libraries mentioned in flashstream.py File***<br />
     pip install --upgrade tensorflow-gpu==2.0 <br />
     pip install streamlit <br />
     pip install pyngrok <br />
