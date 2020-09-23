@@ -1,9 +1,9 @@
 
 1. ***How to get the csv files***<br />
 ```
-    Download the Folder named Datasets
-    Extract it using WinRAR
-    You will get two csv files named True.csv and Fake.csv
+    i   Download the Folder named Datasets
+    ii  Extract it using WinRAR
+    iii You will get two csv files named True.csv and Fake.csv
 ```
 # CYRIM: Fake News Detector
 2. ***Install necessary libraries***<br />
