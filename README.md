@@ -10,7 +10,7 @@
     pip install WordCloud <br />
     pip install gensim # Gensim is an open-source library for unsupervised topic modeling and natural language processing <br />
     pip install jupyterthemes <br />
-2. ***Run flashstream.py***
-    python flashstream.py
-3. ***Run streamlitalone.py***
+2. ***Run flashstream.py*** <br />
+    python flashstream.py <br />
+3. ***Run streamlitalone.py*** <br />
     streamlit run streamlitalone.py
