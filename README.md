@@ -1,5 +1,5 @@
 
-1. ***How to get csv files***<br />
+1. ***How to get the csv files***<br />
 ```
     Download the Folder named Datasets
     Extract it using WinRAR
