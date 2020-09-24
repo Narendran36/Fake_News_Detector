@@ -1,11 +1,11 @@
-
+# CYRIM: Fake News Detector
 1. ***How to get the csv files***<br />
 ```
     i.   Download Datasets.rar
     ii.  Extract to same directory
     iii. Keep True.csv and Fake.csv at programs folder
 ```
-# CYRIM: Fake News Detector
+
 2. ***Install necessary libraries***<br />
 ```
     pip install --upgrade tensorflow-gpu==2.0
