@@ -21,7 +21,7 @@
 ```
     streamlit run setup.py
 ```
-4. ***Run streamlitalone.py***<br />
+4. ***Run cyrim.py***<br />
 ```
     streamlit run cyrim.py
 ```
